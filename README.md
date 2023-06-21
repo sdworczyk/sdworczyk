@@ -1,5 +1,9 @@
 ### Hi there 👋
 I am a coding student for a Data Science course. 
+I am currently learning how to code in Python and hopefully will persue a career using the language. 
+I am looking to work in the industry and use the programming language to help my future aspiration of getting a PhD in Pharmaceutical Nanotechnology.
+If you wish to contact me please email me on: sdworczyk6@gmail.com
+or send me a message on my LinkedIn page: linkedin.com/in/sebastian-dworczyk-208733133/
 <!--
 **sdworczyk/sdworczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
