@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a coding student for a Data Science course. 
 <!--
 **sdworczyk/sdworczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
